@@ -5,6 +5,7 @@
 *.bbl
 *.blg
 *.dvi
+*.db
 *.fdb_latexmk
 *.glg
 *.glo
